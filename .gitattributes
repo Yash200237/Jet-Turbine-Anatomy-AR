@@ -63,3 +63,4 @@
 *.psb  filter=lfs diff=lfs merge=lfs -text
 *.tgz filter=lfs diff=lfs merge=lfs -text
 # Track exactly this file in LFS
+"Jet Turbine Simulation/Builds/JetTurbine ViewAR.apk" filter=lfs diff=lfs merge=lfs -text
