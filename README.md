@@ -5,15 +5,18 @@ An interactive Augmented Reality (AR) application built with Unity that provides
 ## 📱 App Screenshots
 
 ### Home Screen
-![Home Screen](Docs/HomeScreen.jpg)
+<img src="Docs/HomeScreen.jpg" alt="Home Screen" width="300" height="500">
+
 *Clean and intuitive home interface with easy navigation to start the AR simulation*
 
 ### AR Simulation in Action
-![AR Scene](Docs/ARScene.jpg)
+<img src="Docs/ARScene.jpg" alt="AR Scene" width="300" height="500">
+
 *Interactive 3D jet turbine model placed in real environment through AR*
 
 ### Live Demo
-![Demo](Docs/Demo.gif)
+<img src="Docs/Demo.gif" alt="Demo" width="300" height="500">
+
 *Real-time demonstration of the AR experience and component interaction*
 
 ## 🎯 Overview
