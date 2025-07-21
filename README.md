@@ -2,7 +2,19 @@
 
 An interactive Augmented Reality (AR) application built with Unity that provides an immersive educational experience for learning about jet turbine anatomy and components.
 
+## 📱 App Screenshots
+
+### Home Screen
+![Home Screen](Docs/HomeScreen.jpg)
+*Clean and intuitive home interface with easy navigation to start the AR simulation*
+
+### AR Simulation in Action
+![AR Scene](Docs/ARScene.jpg)
+*Interactive 3D jet turbine model placed in real environment through AR*
+
+### Live Demo
 ![Demo](Docs/Demo.gif)
+*Real-time demonstration of the AR experience and component interaction*
 
 ## 🎯 Overview
 
@@ -15,6 +27,7 @@ This AR application allows users to visualize and interact with a detailed 3D mo
 - **AR Visualization**: View the turbine in your real environment through AR
 - **Educational Interface**: Clean and intuitive UI designed for learning
 - **Scene Management**: Smooth navigation between home screen and simulation
+- **Real-time Interaction**: Touch controls for seamless component exploration
 
 ## 🛠️ Technical Stack
 
@@ -61,11 +74,11 @@ This AR application allows users to visualize and interact with a detailed 3D mo
 
 ## 🎮 How to Use
 
-1. **Launch the App**: Open the application on your device
-2. **Start Simulation**: Tap "Start Simulation" from the home screen
+1. **Launch the App**: Open the application on your device (see Home Screen above)
+2. **Start Simulation**: Tap "Start Simulation" from the clean home interface
 3. **AR Setup**: Point your camera at a flat surface and wait for plane detection
 4. **Place Model**: Tap on the detected surface to place the jet turbine model
-5. **Interact**: Use the UI buttons to toggle different turbine components
+5. **Interact**: Use the UI buttons to toggle different turbine components (as shown in AR Scene)
 6. **Explore**: Move around the model to view it from different angles
 
 ## 🏗️ Project Structure
@@ -82,6 +95,9 @@ Jet Turbine Simulation/
 │   └── UI/                     # User interface elements
 ├── Packages/                   # Unity package dependencies
 └── Docs/                       # Documentation and demo files
+    ├── HomeScreen.jpg          # Home screen interface
+    ├── ARScene.jpg             # AR simulation screenshot
+    └── Demo.gif                # Live demonstration
 ```
 
 ## 🔧 Key Components
@@ -94,16 +110,18 @@ Jet Turbine Simulation/
 - **Component Isolation**: Each turbine part can be toggled independently
 - **AR Tracking**: Stable placement and tracking of the 3D model
 - **Intuitive Controls**: Simple tap-to-toggle interface
+- **Professional UI**: Clean design optimized for educational use
 
 ## 🌟 Educational Applications
 
 This AR application is particularly valuable for:
 
-- **Engineering Education**: Visualizing complex mechanical systems
+- **Engineering Education**: Visualizing complex mechanical systems in 3D space
 - **Aviation Training**: Understanding jet engine components and assembly
-- **STEM Learning**: Interactive 3D models enhance comprehension
+- **STEM Learning**: Interactive 3D models enhance comprehension and retention
 - **Technical Presentations**: Professional demonstrations of turbine technology
-- **Self-Directed Learning**: Explore at your own pace
+- **Self-Directed Learning**: Explore at your own pace with intuitive controls
+- **Classroom Integration**: Perfect for interactive lessons and group learning
 
 ## 🚀 Future Enhancement Opportunities
 
@@ -113,19 +131,30 @@ This project can be extended with additional features:
 - **Component Information**: Detailed descriptions and specifications for each part
 - **Animation System**: Show turbine operation and airflow visualization
 - **Assembly Mode**: Step-by-step assembly/disassembly process
-- **Multiple Engine Types**: Different turbine designs (turbofan, turbojet, etc.)
+- **Multiple Engine Types**: Different turbine designs (turbofan, turbojet, turboprop)
+- **Cutaway Views**: Internal component visualization
+- **Performance Metrics**: Real-time data display during operation
 
 ### Technical Improvements
 - **Multi-language Support**: Localization for global educational use
 - **Voice Narration**: Audio explanations for enhanced learning
 - **Quiz System**: Interactive assessments and knowledge testing
 - **Progress Tracking**: Save user progress and learning milestones
+- **Offline Mode**: Download content for use without internet
+- **Cloud Sync**: Save progress across devices
 
 ### Platform Expansion
 - **iOS Support**: ARKit implementation for iPhone/iPad users
 - **Web AR**: Browser-based version for wider accessibility
 - **VR Mode**: Virtual reality support for immersive experiences
 - **Cross-platform**: Windows Mixed Reality and other AR platforms
+- **Desktop Version**: Non-AR version for computers and tablets
+
+### Advanced Features
+- **Collaborative Mode**: Multiple users viewing the same model
+- **Remote Teaching**: Teacher-student interaction capabilities
+- **3D Printing Integration**: Export models for physical prototypes
+- **Simulation Mode**: Working turbine with realistic physics
 
 ## 🤝 Contributing
 
@@ -143,6 +172,7 @@ Contributions are welcome! Here's how you can help:
 - UI/UX improvements
 - Performance optimizations
 - Documentation and tutorials
+- Localization and accessibility features
 
 ## 📄 License
 
@@ -156,7 +186,6 @@ This project is available for educational and non-commercial use. Please see the
 
 If you have questions or need support:
 - Open an issue on GitHub
-- Contact: [Your Email]
 - Project Link: [https://github.com/Yash200237/Jet-Turbine-Anatomy-AR](https://github.com/Yash200237/Jet-Turbine-Anatomy-AR)
 
 ## 🙏 Acknowledgments
@@ -167,4 +196,6 @@ If you have questions or need support:
 
 ---
 
-**Educational Impact**: This AR application transforms traditional learning by making complex engineering concepts tangible and interactive, fostering better understanding and engagement in STEM education.
+**Educational Impact**: This AR application transforms traditional learning by making complex engineering concepts tangible and interactive, fostering better understanding and engagement in STEM education. The intuitive interface and realistic 3D visualization provide an unparalleled learning experience for students and professionals alike.
+
+**Perfect for**: Universities, technical schools, aviation academies, engineering workshops, and anyone passionate about understanding how jet engines work.
