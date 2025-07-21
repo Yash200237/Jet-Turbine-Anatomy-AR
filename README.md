@@ -2,7 +2,7 @@
 
 An interactive Augmented Reality (AR) application built with Unity that provides an immersive educational experience for learning about jet turbine anatomy and components.
 
-## 📱 App Screenshots
+## 📱 App Views
 
 ### Home Screen
 <img src="Docs/HomeScreen.jpg" alt="Home Screen" width="300" height="500">
